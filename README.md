@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm [Ankit Tiwari] 👋
+# Hi there, I'm Ankit Tiwari 👋
 
 ### Data Science Enthusiast · Former Accountant · Numbers Person, Always
 
